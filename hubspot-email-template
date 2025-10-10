@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Email Template</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+<!-- Outlook / MSO fallback CSS -->
+<!--[if mso]>
+<style type="text/css">
+  body, table, td {
+    font-family: Arial, sans-serif !important;
+  }
+</style>
+<![endif]-->
+</head>
+<body style="margin:0; padding:0; background-color:#f0f0f0; font-family:'Montserrat', Arial, sans-serif;">
+
+<!-- Outer Wrapper -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f0f0f0">
+  <tr>
+    <td align="center">
+      <table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="margin:20px auto;">
+
+        <!-- Top Bar -->
+        <tr>
+          <td bgcolor="#F3554A" style="padding:15px 20px; color:#ffffff; font-size:14px; line-height:1.4;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="left">
+                  <a href="https://www.starkedge.com/">
+<img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/starkedge-logo.svg"
+                        alt="StarkEdge Logo"
+                        width="206"
+                        style="display:block; border:0; outline:none; text-decoration:none;  " />
+                  </a>
+                  
+                </td>
+                <td align="right" style="font-size:32px; font-weight:600; max-width:247px; line-height:1.1;">
+                  ENJOY A <span style="font-size:60px; font-weight:700;">10%</span> Instant Discount
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Hero Section -->
+        <tr>
+          <td bgcolor="#0b2647" style="background-color:#0b2647; padding:80px 23px; text-align:center; color:#ffffff;">
+            <div class="img"><img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/hubspot-professional-partner.png"
+                        alt="hubspot"
+                        width="344"
+                        style="display:block; border:0; outline:none; text-decoration:none;margin: 0 auto 9px;" /></div>
+            <h1 style="    margin: 0;font-size: 50px;line-height: 1.2;font-weight: 600;color: #ffffff;">
+              Maximize Your HubSpot Investment with Certified Experts
+            </h1>
+            
+            <p style="margin:20px auto 44px; font-size:19px; line-height:26px; color:#ffffff; max-width:560px;">
+              As a proud HubSpot Partner, we help businesses unlock the full potential of HubSpot from setup and integrations to custom development and automation.
+            </p>
+            <a href="https://www.starkedge.com/meetings/info3374?uuid=873c9108-d6ab-4938-b43c-1878f9c046ce"
+              style="display:inline-block; background:#f35a49; color:#ffffff; padding:15px 25px; text-decoration:none; font-size:17px; font-weight:500; border-radius:4px;">
+              SCHEDULE A FREE CONSULTATION
+            </a>
+          </td>
+        </tr>
+
+
+            <!-- Trusted By Section -->
+        <tr>
+          <td align="center" style="padding:80px 20px 70px;    background-color: #E8F7F9;">
+            <!-- <h2 style="font-size:40px; font-weight:bold; color:#002248; margin:0; padding-bottom:39px;">
+              Trusted by industry
+            </h2> -->
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/one.png" alt="Logo 1"
+                              width="88"
+                              style="display:block; border-radius:6px;     min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/two.png" alt="Logo 2"
+                              width="100"
+                              style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                </tr>
+                <tr>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/three.png" alt="Logo 3"
+                              width="60"
+                            style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/four.png" alt="Logo 4"
+                              width="60"
+                            style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                </tr>
+                <tr>
+                <td align="center" width="50%" style="padding:10px;">
+                    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/five.png" alt="Logo 5"
+                              width="66"
+                            style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/six.png" alt="Logo 6"
+                              width="56"
+                            style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain; " />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+        
+              </tr>
+              <tr>
+                
+                  <td align="center" width="50%" style="padding:10px;">
+                    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/seven.png" alt="Logo 7"
+                              width="66"
+                            style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                  <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding:15px;    display: flex ;justify-content: center;align-items: center;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/eight.png" alt="Logo 8"
+                              width="66"
+                            style="display:block; border-radius:6px;    min-height: 56px; object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!-- More rows if needed -->
+            </table>
+          </td>
+        </tr>
+
+          <!-- Shopify Sales Section -->
+        <tr>
+          <td style="padding:50px 30px; text-align:left;
+          background-color:#f44336;  /* fallback solid color */
+          border-radius:2px;
+          background: linear-gradient(210deg, #F18A3D -1.44%, #F3554A 42.1%, #D45400 103.59%, #F3594A 150.04%, #F1873D 200.54%);">
+            <h2 style="margin:0; font-size:40px; font-weight:bold; color:#ffffff;">
+              Unlock the Full Potential in HubSpot Analytics
+            </h2>
+            <p style="margin:15px 0 30px; font-size:18px; line-height:27px; color:#f9f9f9; max-width:520px;">
+              See how our proven strategies drive real revenue and long-term growth.
+            </p>
+            <div style="margin-bottom:30px;">
+              <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/hubSpot_analytics.png"
+                    alt="Shopify Analytics Screenshot"
+                    width="559"
+                    style="display:block; max-width:100%; border-radius:7px; width:100%; height:100%;object-fit: none; border-radius: 15px; box-shadow: 0 -3.03px 13.331px 7.272px rgba(0, 0, 0, 0.12);" />
+            </div>
+            <div class="btn" style="    text-align: center;">
+              <a href="https://www.starkedge.com/contact-us"
+                style="display:inline-block; background-color:#ffffff; color:#002248; padding:14px 28px; text-decoration:none; font-size:17px; font-weight:500; border-radius:2px;">
+              Request A Quote
+            </a>
+            </div>
+          </td>
+        </tr>
+          
+
+
+            <!-- Trusted By Section -->
+        <tr>
+          <td align="center" style="padding:80px 20px 70px;    background-color: #E8F7F9;">
+            <h2 style="font-size:40px; color:#002248; margin:0; padding-bottom:0px;    font-weight: 300;">
+              T We are HubSpot <br> <span style="font-weight:bold;">Certified Professionals</span>
+            </h2>
+            <p style="    padding: 0 20px;">Are you losing customers and unable to meet your online marketing goals due to a poorly designed 
+e-commerce website? In this era, having a robust 
+e-commerce website is the foundation of your online business.</p>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_1.png" alt="Logo 1"
+                              width="160"
+                              style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_2.png" alt="Logo 2"
+                              width="192" 
+                              style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                </tr>
+                <tr>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_3.png" alt="Logo 3"
+                              width="99"
+                            style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_4.png" alt="Logo 4"
+                              width="185"
+                            style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                </tr>
+                <tr>
+                <td align="center" width="50%" style="padding:10px;">
+                    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_5.png" alt="Logo 5"
+                              width="146"
+                              style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_6.png" alt="Logo 6"
+                              width="187"
+                              style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+        
+              </tr>
+              <tr>
+                
+                  <td align="center" width="50%" style="padding:10px;">
+                    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_7.png" alt="Logo 7"
+                              width="180"
+                            style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                  <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_8.png" alt="Logo 8"
+                              width="172"
+                            style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                
+                  <td align="center" width="50%" style="padding:10px;">
+                    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_9.png" alt="Logo 7"
+                              width="180"
+                            style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                  <td align="center" width="50%" style="padding:10px;">
+                  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="border-radius: 5.609px;background: #FFF;box-shadow: 1.784px 9.177px 56.094px 0 rgba(0, 0, 0, 0.08);width: 100%;">
+                    <tr>
+                      <td style="padding: 15px;display: flex;justify-content: center;align-items: center;min-height: 97px;">
+                        <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo_10.png" alt="Logo 8"
+                              width="172"
+                            style="display:block; border-radius:6px;     min-height: 48px;object-fit: contain;" />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!-- More rows if needed -->
+            </table>
+          </td>
+        </tr>
+
+
+
+      
+
+        <!-- Brands We Helped Section -->
+        <tr>
+          <td style="background-color: #ffffff; padding: 80px 20px;">
+            <h2 style="margin:0 0 19px; font-size: 40px; font-weight: bold; color: #002248;text-align: center;">
+              Brands we've helped
+            </h2>
+            <table width="100%" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto;">
+              <tr>
+                <td align="center" style="padding: 10px 16px;">
+                  <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/brand-one.png" alt="Brand 1" width="175" style="display:block; width:100%; height:auto;" />
+                </td>
+                <td align="center" style="padding: 10px 16px;">
+                  <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/brand-two.png" alt="Brand 2" width="175" style="display:block; width:100%; height:auto;" />
+                </td>
+                <td align="center" style="padding: 10px 16px;">
+                  <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/brand-three.png" alt="Brand 3" width="175" style="display:block; width:100%; height:auto;" />
+                </td>
+              </tr>
+              
+            </table>
+              <table width="100%" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto;">
+              
+              <tr>
+                <td align="center" style="    padding: 15px 20px 16px 68px;">
+                  <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/brand-four.png" alt="Brand 4" width="181" style="display:block;    width: 100%;" />
+                </td>
+                <td align="center" style="    padding: 10px 48px 10px 15px;">
+                  <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/brand-five.png" alt="Brand 5" width="146" style="display:block; width:100%;" />
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+
+
+          <!-- Shopify Sales Section -->
+        <tr>
+          <td style="padding:50px 30px; text-align:left;
+          background-color:#002248;  /* fallback solid color */
+          border-radius:2px;">
+            
+            <div style="margin-bottom:30px;">
+              <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/logo-group.png"
+                    alt="Hubspot"
+                    width="475"
+                    style="display:block; max-width:100%; border-radius:7px; width:100%; height:100%;object-fit: none; border-radius: 15px; box-shadow: 0 -3.03px 13.331px 7.272px rgba(0, 0, 0, 0.12);object-fit: contain;" />
+            </div>
+        
+          </td>
+        </tr>
+
+        <!-- Shopify Highlight Section -->
+        <tr>
+          <td bgcolor="#002244" style="padding:80px 20px; color:#ffffff;background: linear-gradient(90deg, #F1893D 0%, #F3544A 100%);">
+            <h2 style="font-size:40px; font-weight:bold; color:#ffffff; margin:0;">
+              Our HubSpot Work in Action
+            </h2>
+            <p style="font-size:18px; line-height:1.6; color:#ffffff; max-width:520px; margin:20px 0; font-weight:300;">
+              From complex challenges to measurable results here’s how our HubSpot-certified experts have helped businesses grow smarter.
+            </p>
+            <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/what-we-1.png"
+                  alt="Shopify Project Screenshot 1"
+                  width="100%"
+                  style="display:block; max-width:558px; width:100%; height:auto; border-radius:8px; margin: 40px auto;" />
+            <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/what-we-2.png"
+                  alt="Shopify Project Screenshot 2"
+                  width="100%"
+                  style="display:block; max-width:558px; width:100%; height:auto; border-radius:8px; margin:40px auto;" />
+            <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/email%20hubspot%20images/what-we-3.png"
+                  alt="Shopify Project Screenshot 3"
+                  width="100%"
+                  style="display:block; max-width:558px; width:100%; height:auto; border-radius:8px;     margin: 40px auto 10px;" />
+            <div class="btn" style="    width: 100%;text-align: center;">
+                <a href="https://www.starkedge.com/shopify-website-development-services"
+                style="    display: inline-block;color: #ffffff;padding: 15px 30px;font-size: 16px;font-weight: 500;text-decoration: none;margin-top: 20px;border-radius: 2.673px;border: 1.336px solid #FFF;">
+              GET STARTED
+            </a>
+            </div>
+            
+          </td>
+        </tr>
+
+        <!-- Client Success & Testimonials -->
+        <tr>
+          <td style="padding:80px 43px 5px; background-color:#e0f2f8;">
+              <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/quotes-Icon.png"
+                    alt="Quotes Icon"
+                    width="76"
+                    style="display:block; margin:0 0 20px;height:auto;" />
+            <h2 style="font-size:40px; color:#002248; font-weight:bold; margin:0 0 20px;">Client Success Stories</h2>
+            <p style="font-size:18px; color:#212529; font-weight:300; margin:0 0 40px;">
+              We specialize in high-converting, custom Shopify themes, built for performance, tailored to your brand. Our expert team delivers responsive, intuitive designs that drive results.
+            </p>
+          </td>
+        </tr>
+
+        <!-- Testimonial Cards -->
+        <tr>
+          <td style="padding:20px 30px; background-color:#e0f2f8; text-align:left;">
+            <div style="background-color:#ffffff; padding:20px; border-radius:14px;">
+              <h3 style="font-size:24px; color:#002248; font-weight:bold;">Role: Creative Consultant at Neos Marketing</h3>
+              <p style="font-size:18px; color:#212529; font-weight:500; font-style:italic;">
+                "I’ve worked with Starkedge on several occasions (HubSpot platform). The projects are always delivered on time and completely to my specs, I would not hesitate to work with Starkedge on any future HubSpot projects."
+              </p>
+              <p style="font-size:23px; color:#002248; font-weight:600;">
+                Cindy Jen <span style="font-weight:300; font-size:18px; color:#212529;">| Houston, Texas</span>
+              </p>
+              <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/client-1.png" alt="Cindy Jen" width="136" style="display:block; margin-top:40px; height:auto;" />
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px 30px; background-color:#e0f2f8; text-align:left;">
+            <div style="background-color:#ffffff; padding:20px; border-radius:14px;">
+              <h3 style="font-size:24px; color:#002248; font-weight:bold;">Role: Environmental Compliance Manager at Safety-Kleen</h3>
+              <p style="font-size:18px; color:#212529; font-weight:500; font-style:italic;">
+                "Stark Edge meet the expectations of your ideas and vision. They are very consistent with delivering state of art design. They are very committed to delivering excellent work."
+              </p>
+              <p style="font-size:23px; color:#002248; font-weight:600;">
+                Travis Pinnock <span style="font-weight:300; font-size:18px; color:#212529;">| New York</span>
+              </p>
+              <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/client-2.png" alt="Travis Pinnock" width="200" style="display:block; margin-top:40px; height:auto;" />
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px 30px 80px; background-color:#e0f2f8; text-align:left;">
+            <div style="background-color:#ffffff; padding:20px; border-radius:14px;">
+              <h3 style="font-size:24px; color:#002248; font-weight:bold;">Role: General Manager at Penthouse Sports</h3>
+              <p style="font-size:18px; color:#212529; font-weight:500; font-style:italic;">
+                "Stark Edge is an excellent partner. I am very satisfied with the services they provide. The team was very attuned to our needs. I can recommend them to anyone who is looking for professional services and get their job done. Keep Growing!"
+              </p>
+              <p style="font-size:23px; color:#002248; font-weight:600;">
+                Alfredo Scarlata <span style="font-weight:300; font-size:18px; color:#212529;">| Austria</span>
+              </p>
+              <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/client-3.png" alt="Alfredo Scarlata" width="210" style="display:block; margin-top:40px;height:auto;" />
+            </div>
+          </td>
+        </tr>
+
+        <!-- Call to Action Section -->
+        <tr>
+          <td style="background-color:#002a4d; padding:80px 30px; text-align:center; color:#ffffff;">
+            <h2 style="margin:0; font-size:37px; font-weight:bold; line-height:50px;">
+            Create a dominant online presence in no time!
+            </h2>
+            <a href="https://www.starkedge.com/contact-us"
+                style="display:inline-block; margin-top:20px; padding:12px 30px; background:linear-gradient(90deg, #f88f5e, #e94e1b); color:#fff; font-size:16px; text-decoration:none; font-weight:500; border-radius:4px;">
+              Request A QUOTE
+            </a>
+          </td>
+        </tr>
+
+        <!-- Footer Section -->
+        <tr>
+          <td style="background-color:#ffffff;     padding: 19px 20px 13px; text-align:center; font-family:'Montserrat', Arial, sans-serif;">
+            <p style="margin: 0 0 10px 0; font-weight:bold; font-size:18px; color:#0a1f40;">
+              Find us on
+            </p>
+            <p style="    margin: 0 0 12px 0; font-size:0;">
+              <a href="https://www.facebook.com/StarkEdge/" target="_blank" style="display:inline-block; margin:0 8px;">
+                <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/fb.png" alt="Facebook" width="24" height="24" style="display:block; border:0;" />
+              </a>
+              <a href="https://www.linkedin.com/company/13289857/" target="_blank" style="display:inline-block; margin:0 8px;max-height: 24px;">
+                <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/li.png" alt="LinkedIn" width="26" height="26" style="display:block; border:0;" />
+              </a>
+              <a href="https://twitter.com/EdgeStark" target="_blank" style="display:inline-block; margin:0 8px;">
+                <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/tw.png" alt="Twitter" width="21" height="21" style="display:block; border:0;" />
+              </a>
+              <a href="https://www.instagram.com/stark.edge/" target="_blank" style="display:inline-block; margin:0 8px;">
+                <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/in.png" alt="Instagram" width="24" height="24" style="display:block; border:0;" />
+              </a>
+              <a  href="https://api.whatsapp.com/send/?phone=17787455560&text=Hi+there+%EF%BF%BD&type=phone_number&app_absent=0" target="_blank" style="display:inline-block; margin:0 8px;">
+                <img src="https://2766624.fs1.hubspotusercontent-na1.net/hubfs/2766624/Email%20Images/whatsapp.png" alt="Whatsapp" width="24" height="24" style="display:block; border:0;" />
+              </a>
+            </p>
+            <p style="margin:0; font-size:14px; color:#b2b2b2;">
+              ©2025 StarkEdge. All rights reserved.
+            </p>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
